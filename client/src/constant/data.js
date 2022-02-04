@@ -1,0 +1,1 @@
+export const catagories=['Types of Virus','Experiences','Helpline','Medicine','More About Pendemic']
